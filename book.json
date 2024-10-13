@@ -1,0 +1,9 @@
+{
+  "root" : "./Document/docs/2024",
+  "plugins" : [ "anchors" ],
+
+  "structure": {
+    "readme": "SUMMARY.md"
+  }
+
+}
