@@ -1,18 +1,7 @@
 ---
 title: Insufficient Asset Management and Documentation
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int10
-  - insufficient
-  - asset
-  - management
-  - and
-  - documentation
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insufficient asset management and documentation isr10
 ---
 
 # ISR10:2024 – 不十分な資産管理と文書化 (Insufficient Asset Management and Documentation)

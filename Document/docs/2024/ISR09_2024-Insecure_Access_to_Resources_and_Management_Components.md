@@ -1,20 +1,7 @@
 ---
 title: Insecure Access to Ressources and Management Components
 layout: col-sidebar
-tags:
-  - owasp
-  - top-10
-  - threats
-  - int09
-  - insecure
-  - access
-  - to
-  - ressources
-  - and
-  - management
-  - components
-  - infrastructure
-  - infrastructure-threats
+tags: owasp top-10 threats infrastructure infrastructure-threats security risks infrastructure-security-risks insecure access to resources and management components isr09
 ---
 
 # ISR09:2024 – リソースおよび管理コンポーネントへの安全でないアクセス (Insecure Access to Ressources and Management Components)
