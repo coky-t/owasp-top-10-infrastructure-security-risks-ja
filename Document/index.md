@@ -7,9 +7,11 @@ type:
 pitch: Most common and critical Infrastructure Security Risks
 ---
 
-# OWASP Top 10 インフラストラクチャセキュリティリスク - 2024 へようこそ
+![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo-clean.png){:class="img-responsive"}{:width="750px"}{:style="display:block;margin-left:auto;margin-right:auto;"}
 
-![OWASP Top 10 Infrastructure Security Risks Logo](./assets/images/logo.png){:class="img-responsive"}{:width="750px"}
+<h1 align="center">
+OWASP Top 10 インフラストラクチャセキュリティリスク - 2024 へようこそ
+</h1>
 
 OWASP Top 10 インフラストラクチャセキュリティリスクは上位のインフラストラクチャセキュリティリスク、脅威、脆弱性に関する情報を提供します。
 
@@ -40,3 +42,7 @@ OWASP Top 10 インフラストラクチャセキュリティリスクの品質�
 貢献者と寄贈者は希望に応じて関連プロジェクトページにスポンサーとして掲載されます。
 また、インフラストラクチャセキュリティリスクに関する脆弱性について CVE や CWE の調査を行う予定です。
 詳細や貢献方法については、この [リンク](https://github.com/OWASP/www-project-top-10-infrastructure-security-risks/tree/main/docs/2024/ISR_2024-Open_Call_for_Data.md) を参照してください。
+
+
+
+<img style="display:none" src="https://blt.owasp.org/projects/www-project-top-10-infrastructure-security-risks/badge">
