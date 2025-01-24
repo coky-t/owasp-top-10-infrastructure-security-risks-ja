@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Top 10 Infrastructure 
 - Project Site - <https://owasp.org/www-project-top-10-infrastructure-security-risks/>
 - Project Repository - <https://github.com/OWASP/www-project-top-10-infrastructure-security-risks>
 
-# OWASP Top 10 インフラストラクチャセキュリティリスク 2024 日本語版
+## OWASP Top 10 インフラストラクチャセキュリティリスク 2024 日本語版
 
 - [OWASP Top 10 インフラストラクチャセキュリティリスク](Document/index.md)
 - [**ISR01:2024 – 古いソフトウェア (Outdated Software)**](Document/docs/2024/ISR01_2024-Outdated_Software.md)
