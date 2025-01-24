@@ -9,7 +9,7 @@ This is the unofficial Japanese translation of the [OWASP Top 10 Infrastructure 
 
 # OWASP Top 10 インフラストラクチャセキュリティリスク 2024 日本語版
 
-* [OWASP Top 10 インフラストラクチャセキュリティリスク](Document/index.md)
+- [OWASP Top 10 インフラストラクチャセキュリティリスク](Document/index.md)
 - [**ISR01:2024 – 古いソフトウェア (Outdated Software)**](Document/docs/2024/ISR01_2024-Outdated_Software.md)
 - [**ISR02:2024 – 不十分な脅威検出 (Insufficient Threat Detection)**](Document/docs/2024/ISR02_2024-Insufficient_Threat_Detection.md)
 - [**ISR03:2024 – 安全でない構成 (Insecure Configurations)**](Document/docs/2024/ISR03_2024-Insecure_Configurations.md)
